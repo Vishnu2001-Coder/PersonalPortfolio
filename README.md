@@ -9,7 +9,7 @@ A personal website to showcase my skills, projects, and resume. This portfolio h
 - Contact form for inquiries or networking  
 
 ## Tech Stack
-- **Frontend:** HTML, CSS, JavaScript  
+- **Frontend:** HTML, CSS  
 - **Hosting:** GitHub Pages (or any static hosting)  
 
 ## How to Run
