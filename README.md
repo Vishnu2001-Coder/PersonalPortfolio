@@ -1,2 +1,18 @@
-# PersonalPortfolio
-Vishnu Moorthy Portfolio – A professional portfolio website showcasing my projects, skills, and contact details. Built with HTML &amp; CSS, featuring responsive design, project cards, and clean UI to highlight full-stack development experience.
+# Personal Portfolio
+
+A personal website to showcase my skills, projects, and resume. This portfolio highlights my work as a **Software Engineer** and **Full-Stack Developer**, demonstrating projects in Java, Spring Boot, and frontend technologies.
+
+## Features
+- Display personal information, resume, and technical skills  
+- Showcase projects with descriptions and links  
+- Responsive design for desktop and mobile devices  
+- Contact form for inquiries or networking  
+
+## Tech Stack
+- **Frontend:** HTML, CSS, JavaScript  
+- **Hosting:** GitHub Pages (or any static hosting)  
+
+## How to Run
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/Vishnu2001-Coder/PersonalPortfolio.git
